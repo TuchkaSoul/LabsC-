@@ -1,0 +1,4 @@
+﻿  Laba11.cpp
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba11\Laba11.cpp(240,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba11\Laba11.cpp(32): warning C4715: InputData: значение возвращается не при всех путях выполнения
+  Laba11.vcxproj -> C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba11\x64\Debug\Laba11.exe

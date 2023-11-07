@@ -1,0 +1,13 @@
+﻿  Laba10.cpp
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(48,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(50,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(66,16): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(72,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(86,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(103,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\Laba10.cpp(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba10.vcxproj -> C:\Users\anton\OneDrive\Рабочий стол\education\C++ Лабораторные работы\Laba10\x64\Debug\Laba10.exe
